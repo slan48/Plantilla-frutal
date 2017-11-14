@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slan Frutal\n"
+"POT-Creation-Date: 2017-08-17 12:31-0500\n"
+"PO-Revision-Date: 2017-08-17 12:32-0500\n"
+"Last-Translator: \n"
+"Language-Team: Sergio Agamez\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_x;_n;gettext\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:19
+msgid "Se necesita contraseña para visualizar este contenido"
+msgstr ""
+
+#: comments.php:25 sidebar.php:27
+msgid "Escribe el primer comentario"
+msgstr ""
+
+#: comments.php:25 sidebar.php:27
+msgid "Hay 1 comentario"
+msgstr ""
+
+#: comments.php:25 sidebar.php:27
+#, php-format
+msgid "Hay % comentarios"
+msgstr ""
+
+#: comments.php:36
+msgid ""
+"<i class=\"fa fa-arrow-left\" aria-hidden=\"true\"></i> Comentarios antiguos"
+msgstr ""
+
+#: comments.php:42
+msgid ""
+"Comentarios recientes <i class=\"fa fa-arrow-right\" aria-hidden=\"true\"></"
+"i>"
+msgstr ""
+
+#: includes/menus.php:15
+msgid "Menú principal en cabecera"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:9 includes/nuevas-taxonomias.php:11
+msgid "Longitudes"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:10
+msgid "Longitud"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:12
+msgid "Ver todos"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:13
+msgid "Longitud superior"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:14
+msgid "Longitud superior:"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:15
+msgid "Nombre de la nueva longitud"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:16
+msgid "Agregar nueva longitud"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:17
+msgid "Editar longitud"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:18
+msgid "Actualizar longitud"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:19
+msgid "Ver longitud"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:20
+msgid "Separar longitudes con comas"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:21
+msgid "Agregar o eliminar longitudes"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:22
+msgid "Escoge entre los más usados"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:23
+msgid "Longitudes populares"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:24
+msgid "Buscar longitudes"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:25
+msgid "No encontrado"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:26
+msgid "No hay longitudes"
+msgstr ""
+
+#: includes/nuevas-taxonomias.php:27
+msgid "Lista de longitudes"
+msgstr ""
+
+#: includes/nuevoscampos-inicio.php:15
+msgid "Datos en la página de inicio"
+msgstr ""
+
+#: includes/nuevoscampos-inicio.php:23
+msgid "Título destacado"
+msgstr ""
+
+#: includes/nuevoscampos-inicio.php:24
+msgid "Ingresa el título destacado del sitio"
+msgstr ""
+
+#: includes/nuevoscampos-inicio.php:30
+msgid "Subtítulo destacado"
+msgstr ""
+
+#: includes/nuevoscampos-inicio.php:31
+msgid "Ingresa el subtítulo destacado del sitio"
+msgstr ""
+
+#: includes/nuevoscampos-inicio.php:37
+msgid "Texto del botón"
+msgstr ""
+
+#: includes/nuevoscampos-inicio.php:38
+msgid "Ingresa el texto que tendrá el botón bajo el subtítulo destacado"
+msgstr ""
+
+#: includes/nuevoscampos-inicio.php:44
+msgid "Enlace del botón"
+msgstr ""
+
+#: includes/nuevoscampos-inicio.php:45
+msgid "Ingresa el enlace que tendrá el botón bajo el subtítulo destacado"
+msgstr ""
+
+#: includes/options-homepage.php:35
+msgid "Primer anuncio"
+msgstr ""
+
+#: includes/options-homepage.php:40 includes/options-homepage.php:58
+#: includes/options-homepage.php:76
+msgid ""
+"Esto es un texto de prueba, por favor ingresa un texto real en el "
+"personalizador"
+msgstr ""
+
+#: includes/options-homepage.php:53
+msgid "Segundo anuncio"
+msgstr ""
+
+#: includes/options-homepage.php:71
+msgid "Tercer anuncio"
+msgstr ""
+
+#: includes/personalizador-tema.php:17
+msgid "Encabezado"
+msgstr ""
+
+#: includes/personalizador-tema.php:18
+msgid "Opciones del encabezado"
+msgstr ""
+
+#: includes/personalizador-tema.php:26
+msgid "Encabezado superior"
+msgstr ""
+
+#: includes/personalizador-tema.php:27
+msgid "Opciones del encabezado superior"
+msgstr ""
+
+#: includes/personalizador-tema.php:39
+msgid "Texto en top header"
+msgstr ""
+
+#: includes/personalizador-tema.php:40
+msgid "Texto que se muestra en la barra superior"
+msgstr ""
+
+#: includes/personalizador-tema.php:52
+msgid "Enlace a página de Facebook"
+msgstr ""
+
+#: includes/personalizador-tema.php:64
+msgid "Enlace a página de Twitter"
+msgstr ""
+
+#: includes/personalizador-tema.php:76
+msgid "Enlace a página de Instagram"
+msgstr ""
+
+#: includes/personalizador-tema.php:86
+msgid "Encabezado normal"
+msgstr ""
+
+#: includes/personalizador-tema.php:87
+msgid "Opciones del encabezado normal"
+msgstr ""
+
+#: includes/personalizador-tema.php:99
+msgid "Subir logo"
+msgstr ""
+
+#: includes/personalizador-tema.php:111
+msgid "Mostrar título y descripción de la web"
+msgstr ""
+
+#: includes/personalizador-tema.php:123
+msgid "Pie de página"
+msgstr ""
+
+#: includes/personalizador-tema.php:124
+msgid "Opciones del pie de página"
+msgstr ""
+
+#: includes/personalizador-tema.php:132
+msgid "Llamada a la acción"
+msgstr ""
+
+#: includes/personalizador-tema.php:144
+msgid "Texto llamada a la acción"
+msgstr ""
+
+#: includes/personalizador-tema.php:156
+msgid "Texto de botón llamada a la acción"
+msgstr ""
+
+#: includes/personalizador-tema.php:168
+msgid "Enlace de botón de llamada a la acción"
+msgstr ""
+
+#: includes/personalizador-tema.php:177
+msgid "Pie de página inferior"
+msgstr ""
+
+#: includes/personalizador-tema.php:189
+msgid "Texto de pie de página inferior"
+msgstr ""
+
+#: includes/personalizador-tema.php:200
+msgid "Banner principal"
+msgstr ""
+
+#: includes/personalizador-tema.php:211
+msgid "Subir imagen de banner principal"
+msgstr ""
+
+#: includes/personalizador-tema.php:222
+msgid "Homepage"
+msgstr ""
+
+#: includes/personalizador-tema.php:223
+msgid "Opciones de la plantilla de página de inicio"
+msgstr ""
+
+#: includes/personalizador-tema.php:231
+msgid "Sección de anuncios o blurbs"
+msgstr ""
+
+#: includes/personalizador-tema.php:243
+msgid "Mostrar sección de anuncios o blurbs"
+msgstr ""
+
+#: includes/personalizador-tema.php:256
+msgid "Título sección de anuncios o blurbs"
+msgstr ""
+
+#: includes/personalizador-tema.php:268
+msgid "Subtítulo sección de anuncios o blurbs"
+msgstr ""
+
+#: includes/personalizador-tema.php:282
+msgid "Subir imagen de primer anuncio"
+msgstr ""
+
+#: includes/personalizador-tema.php:294
+msgid "Título de primer anuncio"
+msgstr ""
+
+#: includes/personalizador-tema.php:306
+msgid "Texto de primer anuncio"
+msgstr ""
+
+#: includes/personalizador-tema.php:320
+msgid "Subir imagen de segundo anuncio"
+msgstr ""
+
+#: includes/personalizador-tema.php:332
+msgid "Título de segundo anuncio"
+msgstr ""
+
+#: includes/personalizador-tema.php:344
+msgid "Texto de segundo anuncio"
+msgstr ""
+
+#: includes/personalizador-tema.php:358
+msgid "Subir imagen de tercer anuncio"
+msgstr ""
+
+#: includes/personalizador-tema.php:370
+msgid "Título de tercer anuncio"
+msgstr ""
+
+#: includes/personalizador-tema.php:382
+msgid "Texto de tercer anuncio"
+msgstr ""
+
+#: includes/personalizador-tema.php:393
+msgid "Sección de últimos artículos"
+msgstr ""
+
+#: includes/personalizador-tema.php:405
+msgid "Mostrar sección de últimos artículos"
+msgstr ""
+
+#: includes/personalizador-tema.php:418
+msgid "Título de sección de últimos artículos"
+msgstr ""
+
+#: includes/personalizador-tema.php:430
+msgid "Subtítulo de sección de últimos artículos"
+msgstr ""
+
+#: includes/sidebars.php:14
+msgid "Barra lateral"
+msgstr ""
+
+#: includes/sidebars.php:16
+msgid "Esta es la zona de widgets principal"
+msgstr ""
+
+#: includes/sidebars.php:25
+msgid "Pie de página zona izquierda"
+msgstr ""
+
+#: includes/sidebars.php:27
+msgid "Esta es la zona de widgets izquierda en el pie de página"
+msgstr ""
+
+#: includes/sidebars.php:36
+msgid "Pie de página zona central"
+msgstr ""
+
+#: includes/sidebars.php:38
+msgid "Esta es la zona de widgets central en el pie de página"
+msgstr ""
+
+#: includes/sidebars.php:47
+msgid "Pie de página zona derecha"
+msgstr ""
+
+#: includes/sidebars.php:49
+msgid "Esta es la zona de widgets derecha en el pie de página"
+msgstr ""
+
+#: index.php:22
+msgid "Categoría:"
+msgstr ""
+
+#: index.php:26
+msgid "Etiqueta:"
+msgstr ""
+
+#: index.php:30
+msgid "Resultados de búsqueda para:"
+msgstr ""
+
+#: index.php:34 index.php:38 index.php:42
+msgid "Archivo:"
+msgstr ""
+
+#: index.php:47
+msgid "Artículos de:"
+msgstr ""
+
+#: index.php:54
+msgid "No se encontró la página"
+msgstr ""
+
+#: index.php:63
+msgid "Blog"
+msgstr ""
+
+#: index.php:106 template-home.php:167
+msgid "Leer más"
+msgstr "Read more"
+
+#: index.php:117
+msgid ""
+"<i class=\"fa fa-arrow-left\" aria-hidden=\"true\"></i> Artículos antiguos"
+msgstr ""
+
+#: index.php:120
+msgid ""
+"Artículos recientes <i class=\"fa fa-arrow-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: sidebar.php:17
+msgid "Autor:"
+msgstr ""
+
+#: single.php:52
+msgid ""
+"<i class=\"fa fa-arrow-left\" aria-hidden=\"true\"></i> Artículos anterior"
+msgstr ""
+
+#: single.php:55
+msgid ""
+"Artículos siguiente <i class=\"fa fa-arrow-right\" aria-hidden=\"true\"></i>"
+msgstr ""
+
+#: template-archive.php:53
+msgid "Últimos artículos"
+msgstr ""
+
+#: template-archive.php:63
+msgid "Artículos por año"
+msgstr ""
+
+#: template-archive.php:73
+msgid "Artículos por mes"
+msgstr ""
+
+#: template-archive.php:83
+msgid "Artículos por semana"
+msgstr ""
+
+#: template-archive.php:93
+msgid "Artículos por día"
+msgstr ""
+
+#: template-archive.php:103
+msgid "Artículos por autor"
+msgstr ""
+
+#: template-home.php:55
+msgid "Ver más"
+msgstr "View more"
+
+#: template-parts/content-nopost.php:4
+msgid "No hay contenido para mostrar"
+msgstr "There is no content"
+
+#: template-parts/content-nopost.php:9
+msgid ""
+"Lo sentimos, en esta página no hay contenido para mostrar, por favor realiza "
+"una nueva búsqueda"
+msgstr ""
